@@ -8,14 +8,14 @@ My name is Dang Ky Chi. I am a Software Engineer, majoring in Web Development. I
 
 <a href="https://github.com/dangkychi/dkc_mvc/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dangkychi&repo=QuickDraw&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dangkychi&repo=dkc_mvc&theme=radical" />
 </a>    
 <a href="https://github.com/nhanvox/CoffeeShop/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dangkychi&repo=ASCII-generator&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nhanvox&repo=CoffeeShop&theme=merko" />
 </a>
 
 <a href="https://github.com/dangkychi/clothesshop_mvc/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dangkychi&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dangkychi&repo=clothesshop_mvc&theme=gruvbox" />
 </a>    
